@@ -1,0 +1,25 @@
+=== FICHIERS À REMPLACER PAR LES TIENS ===
+
+1. TON CV :
+   - Ajoute : CV_CHARLINE_BRENDA_FR.pdf
+   - Ajoute : CV_CHARLINE_BRENDA_EN.pdf
+
+2. TA PHOTO :
+   - Remplace : images/profile-photo.jpg  (photo de profil dans le Hero)
+   - Remplace : images/about-photo.jpg    (photo dans la section About)
+
+3. IMAGES PROJETS (dans images/projects/) :
+   - Ajoute : harmony-gloves.png
+   - Ajoute : emotion-reco.png
+   - Ajoute : eneo-app.png
+   - Ajoute : um2code.png
+
+4. IMAGES CERTIFICATIONS (dans images/certifs/) :
+   - Ajoute : leadership-maxwell.png
+   - Ajoute : tests-logiciels.png
+   - Ajoute : eneo-stage.png
+
+5. PDFs CERTIFICATIONS (dans certifs/) :
+   - Ajoute : leadership-maxwell.pdf
+   - Ajoute : tests-logiciels.pdf
+   - Ajoute : eneo-stage.pdf
